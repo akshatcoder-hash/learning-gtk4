@@ -39,3 +39,4 @@ fn build_ui(app: &Application) {
     // Present window
     window.present();
 }
+
